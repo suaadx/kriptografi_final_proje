@@ -17,7 +17,7 @@ http://127.0.0.1:5000
 
 ## 🖼️ Ana Sayfa Görseli
 
-![Ana Sayfa](final_proje/images/ana_sayfa.png)
+![Ana Sayfa](images/ana_sayfa.png)
 
 Yukarıdaki görsel, uygulamanın ana sayfasını göstermektedir. Bu sayfada kullanıcılar için üç ana işlev sunulmaktadır:
 
